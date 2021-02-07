@@ -1,3 +1,4 @@
+#to make sure the host file is accessible from this py code/.
 import time
 from datetime import datetime as dt 
 
